@@ -293,6 +293,7 @@ img {
         letter-spacing: 0.02em;
         color: #2e2f42;
         margin-top: 32px;
+        margin-bottom: 8px;
 }
 .prt-dscrp {
     font-weight: 400;
@@ -309,7 +310,6 @@ text-align: center;
 text-transform: capitalize;
 padding-top: 120px;
 margin-bottom: 72px;
-margin-bottom: 8px;
 }
 
 .portfolio {
